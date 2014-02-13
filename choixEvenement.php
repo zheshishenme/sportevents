@@ -15,12 +15,11 @@
                 <?php
 		require 'connect.php';
 		
-		
-		$requete= "select prenom from IDENTIFIANT";
+                ?>
+            </div>$requete= "select prenom from IDENTIFIANT";
                 $resultat=mysql_query($requete);
                 echo ("bienvenue $resultat");
                 ?>
-            </div>
            
         </header>
         <nav>
@@ -34,7 +33,6 @@
           
             <div id="evenement">
                 
-                <img src="images/piscine.PNG" alt="logo" width= "200" height= "100">
             </div>
             
         </section>
