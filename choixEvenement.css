@@ -5,14 +5,14 @@ nav{width: 220px; height: 450px;
 background-color: white;
 margin-top: 10px;
 background: white;}
-section {width: 1115px; height: 450px;
+section {width: 1100px; height: 450px;
 background-color: white;
 margin-top: 10px;
 margin-left: 10px;
 background: white;
 position: absolute;
 right: 10px;
-bottom: 95px;}
+bottom: 75px;}
 .identifiant{position: absolute;
 right: 150px;
 top: 40px;
