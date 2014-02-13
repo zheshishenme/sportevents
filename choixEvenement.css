@@ -1,0 +1,27 @@
+*{background-color: green;}
+header{background: white;
+color: orange;}
+nav{width: 220px; height: 450px;
+background-color: white;
+margin-top: 10px;
+background: white;}
+section {width: 1115px; height: 450px;
+background-color: white;
+margin-top: 10px;
+margin-left: 10px;
+background: white;
+position: absolute;
+right: 10px;
+bottom: 95px;}
+.identifiant{position: absolute;
+right: 150px;
+top: 40px;
+background: white;}
+footer{height: 70px;
+background-color: white;
+margin-top: 10px;
+margin-bottom: 10px;
+background: white;
+text-align: center;}
+section evenement{}
+
