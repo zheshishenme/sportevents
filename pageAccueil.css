@@ -1,0 +1,21 @@
+.identification {border:solid 2px orange; padding:30px; margin-left: 160px; width:250px; color:orange; }
+.evenement{position: absolute;
+right:200px;
+bottom: 150px;
+color: orange;
+text-align: center;
+
+}
+.titre{border:solid 2px orange;
+      color:orange;
+position: absolute;
+right: 0px;
+bottom: 200px;
+width: 350px}
+.connection {border:solid 2px orange;
+             color: black;
+        background-color: windowframe;
+        margin-top: 10px;
+        margin-bottom: 30px;
+      color:orange;
+}
